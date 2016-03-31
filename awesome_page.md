@@ -1,4 +1,12 @@
+# this is our gps challenge 1.1
 
-# This is a change to the awesome_page.md on the master branch
+**this is bold**
 
-# This is a change to the awesome_page.md this was edited on the small-conflict branch
+*this is our italics line for this challenge*
+
+            this  is a code block
+the word below is our link  
+[word](www.link.com)
+
+
+![gps screenshot](gps_screenshot.png "gps screenshot")
